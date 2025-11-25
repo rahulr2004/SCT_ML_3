@@ -30,20 +30,5 @@ This project implements an SVM classifier to distinguish between cats and dogs u
 3. Download dataset from Kaggle
 4. Run in Google Colab
 
-## 📁 Structure
-SCT_ML_3
-│
-├── README.md
-├── requirements.txt
-├── svm_cats_dogs.ipynb
-├── images/
-│   ├── model_evaluation.png
-│   └── predictions_visualization.png
-├── models/
-│   ├── svm_cats_dogs_model.pkl
-│   └── scaler.pkl
-└── src/
-    └── train.py
-
 ## 👨‍💻 Author
 Your Name - GitHub: @rahulr2004
